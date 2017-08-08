@@ -1,3 +1,8 @@
+This repository contains my efforts at solving the weekly challenges from PyBites--
+the full description from their website can be found below
+
+---------------------------------------------------------------------------------
+
 # PyBites Code Challenges
 
 [![Join the chat at https://gitter.im/pybites/challenges](https://badges.gitter.im/pybites/challenges.svg)](https://gitter.im/pybites/challenges?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
